@@ -1,5 +1,5 @@
 {
-    "name": "dcoturel/ApiController",
+    "name": "dcoturel/api_controller",
     "description": "ApiController plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
